@@ -1,0 +1,53 @@
+Je suis joueur de Fantasy Premier League et passionné de data, alors plutôt que de passer beaucoup de temps à choisir mon équipe, j’ai créé un programme capable de composer automatiquement l’effectif de 15 joueurs nécessaire pour jouer.
+
+
+
+Pour ceux qui ne connaissent pas, Fantasy Premier League (FPL) est un jeu de simulation basé sur le championnat de football anglais. Les joueurs construisent une équipe virtuelle de 15 footballeurs, respectant un budget et des règles de composition, et marquent des points en fonction des performances réelles des joueurs lors des matchs
+
+
+
+Mon programme respecte toutes les règles du jeu :
+
+- 2 gardiens, 5 défenseurs, 5 milieux et 3 attaquants
+
+- Maximum 3 joueurs par équipe réelle
+
+- Budget limité à 100M
+
+- Réserves de budget pour garantir la complétion de l’équipe
+
+
+
+Pour sélectionner les joueurs, je me suis basé sur un score global qui combine :
+
+
+
+- La moyenne des points pour mesurer la performance.
+
+- Le pourcentage de sélection par les joueurs, c’est-à-dire la proportion de participants ayant choisi ce joueur dans leur équipe, pour refléter la connaissance collective et l’historique.
+
+- Le coût du joueur, en pénalisant les joueurs chers.
+
+
+
+Cette note permet d’évaluer un joueur sous tous les angles et, en combinant ce score avec les règles du jeu, le programme construit le meilleur effectif possible.
+
+
+
+Pour ce projet, j’ai utilisé :
+
+L’API Fantasy Premier League pour récupérer les données
+
+Python et SQL pour la manipulation et la gestion des données
+
+
+
+Le classement des fichiers à tourner est le suivant:
+
+get_data.py : pour récupérer les données depuis l’API et les stocker dans un fichier csv
+
+csv_to_sql.py : pour insérer les données du csv dans une base de données SQLite
+
+pick_team.py : pour sélectionner l’équipe optimale en fonction des règles et du score global
+
+
