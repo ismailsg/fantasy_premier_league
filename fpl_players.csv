@@ -1,0 +1,737 @@
+id,first_name,second_name,team,position,now_cost,total_points,minutes,goals_scored,assists,clean_sheets,selected_by_percent
+1,David,Raya Martín,1,Gardien,5.5,18,270,0,0,2,22.5
+2,Kepa,Arrizabalaga Revuelta,1,Gardien,4.4,0,0,0,0,0,0.7
+3,Karl,Hein,1,Gardien,4.0,0,0,0,0,0,0.5
+4,Tommy,Setford,1,Gardien,4.0,0,0,0,0,0,0.2
+5,Gabriel,dos Santos Magalhães,1,Défenseur,6.1,14,270,0,0,2,21.2
+6,William,Saliba,1,Défenseur,6.1,16,184,0,0,2,15.9
+7,Riccardo,Calafiori,1,Défenseur,5.7,28,224,1,2,2,11.4
+8,Jurriën,Timber,1,Défenseur,5.6,26,172,2,1,1,9.1
+9,Jakub,Kiwior,1,Défenseur,5.4,0,0,0,0,0,0.1
+10,Myles,Lewis-Skelly,1,Défenseur,5.4,1,44,0,0,0,2.7
+11,Benjamin,White,1,Défenseur,5.4,6,70,0,0,1,0.6
+13,Brayden,Clarke,1,Défenseur,4.0,0,0,0,0,0,0.5
+14,Maldini,Kacurri,1,Défenseur,4.0,0,0,0,0,0,0.2
+15,Josh,Nichols,1,Défenseur,4.0,0,0,0,0,0,0.2
+16,Bukayo,Saka,1,Milieu,9.9,9,142,1,0,1,5.8
+17,Martin,Ødegaard,1,Milieu,7.9,7,147,0,0,1,2.5
+18,Noni,Madueke,1,Milieu,7.0,6,181,0,0,1,1.1
+19,Gabriel,Martinelli Silva,1,Milieu,6.9,4,128,0,0,1,1.1
+20,Leandro,Trossard,1,Milieu,6.9,1,37,0,0,0,0.3
+21,Declan,Rice,1,Milieu,6.5,16,262,0,2,2,8.9
+22,Mikel,Merino Zazón,1,Milieu,5.9,4,76,0,0,1,0.4
+23,Fábio,Ferreira Vieira,1,Milieu,5.4,0,0,0,0,0,0.0
+24,Christian,Nørgaard,1,Milieu,5.4,0,0,0,0,0,0.2
+25,Ethan,Nwaneri,1,Milieu,5.4,1,52,0,0,0,0.2
+26,Martín,Zubimendi Ibáñez,1,Milieu,5.5,9,270,0,0,2,1.9
+28,Ismeal,Kabia,1,Milieu,4.5,0,0,0,0,0,0.2
+29,Albert,Sambi Lokonga,1,Milieu,4.5,0,0,0,0,0,0.1
+30,Kai,Havertz,1,Attaquant,7.4,1,30,0,0,0,0.5
+31,Gabriel,Fernando de Jesus,1,Attaquant,6.5,0,0,0,0,0,0.0
+266,Eberechi,Eze,1,Milieu,7.5,4,103,0,0,1,11.1
+662,Cristhian,Mosquera,1,Défenseur,5.4,3,111,0,0,0,0.1
+666,Viktor,Gyökeres,1,Attaquant,9.0,14,239,2,0,1,24.7
+700,Max,Dowman,1,Milieu,4.5,5,27,0,1,0,0.3
+711,Andre,Harriman-Annous,1,Milieu,4.5,0,0,0,0,0,0.0
+725,Piero,Hincapié,1,Défenseur,5.5,0,0,0,0,0,0.0
+32,Emiliano,Martínez Romero,2,Gardien,5.0,2,90,0,0,0,1.7
+33,Marco,Bizot,2,Gardien,4.5,7,180,0,0,1,0.8
+34,Joe,Gauci,2,Gardien,4.0,0,0,0,0,0,0.2
+35,Filip,Marschall,2,Gardien,4.0,0,0,0,0,0,0.0
+36,Matty,Cash,2,Défenseur,4.5,10,253,0,0,1,5.0
+37,Lucas,Digne,2,Défenseur,4.5,9,160,0,0,1,2.1
+38,Ezri,Konsa Ngoyo,2,Défenseur,4.5,4,155,0,0,1,13.6
+39,Ian,Maatsen,2,Défenseur,4.4,2,109,0,0,0,0.7
+40,Tyrone,Mings,2,Défenseur,4.5,9,270,0,0,1,1.3
+41,Pau,Torres,2,Défenseur,4.5,3,106,0,0,0,0.4
+42,Andrés,García,2,Défenseur,4.0,0,0,0,0,0,0.2
+43,Álex,Moreno Lopera,2,Défenseur,4.0,0,0,0,0,0,5.7
+44,Lamare,Bogarde,2,Défenseur,4.0,1,22,0,0,0,0.3
+45,Lino,da Cruz Sousa,2,Défenseur,4.0,0,0,0,0,0,0.3
+46,Yasin,Özcan,2,Défenseur,4.0,0,0,0,0,0,0.2
+47,Morgan,Rogers,2,Milieu,7.0,7,270,0,0,1,8.3
+48,Youri,Tielemans,2,Milieu,5.9,7,270,0,0,1,1.8
+49,Leon,Bailey,2,Milieu,5.5,0,0,0,0,0,0.2
+50,Emiliano,Buendía Stati,2,Milieu,5.3,2,103,0,0,0,0.1
+51,Samuel,Iling-Junior,2,Milieu,5.5,0,0,0,0,0,0.0
+53,Donyell,Malen,2,Milieu,5.3,4,114,0,0,0,1.0
+54,John,McGinn,2,Milieu,5.5,7,229,0,0,1,0.6
+55,Ross,Barkley,2,Milieu,4.9,0,0,0,0,0,0.0
+56,Enzo,Barrenechea,2,Milieu,5.0,0,0,0,0,0,0.0
+57,Lewis,Dobbin,2,Milieu,5.0,0,0,0,0,0,0.0
+58,Boubacar,Kamara,2,Milieu,4.9,3,105,0,0,1,0.1
+59,Amadou,Onana,2,Milieu,5.0,6,153,0,0,1,1.3
+60,Ben,Broggio,2,Milieu,4.5,0,0,0,0,0,0.3
+61,Leander,Dendoncker,2,Milieu,4.5,0,0,0,0,0,0.2
+62,Jamaldeen,Jimoh-Aloba,2,Milieu,4.5,0,0,0,0,0,0.1
+63,Kadan,Young,2,Milieu,4.5,0,0,0,0,0,0.6
+64,Ollie,Watkins,2,Attaquant,8.9,6,270,0,0,1,17.8
+65,Zépiqueno,Redmond,2,Attaquant,4.5,0,0,0,0,0,0.7
+389,Harvey,Elliott,2,Milieu,5.4,1,1,0,0,0,0.3
+456,Jadon,Sancho,2,Milieu,5.9,0,0,0,0,0,0.2
+677,Evann,Guessand,2,Milieu,6.4,2,60,0,0,0,0.0
+688,James,Wright,2,Gardien,4.0,0,0,0,0,0,0.5
+701,Triston,Rowe,2,Défenseur,4.0,0,0,0,0,0,0.1
+702,Bradley,Burrowes,2,Milieu,4.5,1,16,0,0,0,0.1
+703,Sam,Proctor,2,Gardien,4.0,0,0,0,0,0,0.3
+710,Travis,Patterson,2,Défenseur,4.0,0,0,0,0,0,0.1
+719,Victor,Lindelöf,2,Défenseur,4.5,0,0,0,0,0,0.0
+183,Max,Weiß,3,Gardien,4.5,0,0,0,0,0,0.1
+184,Etienne,Green,3,Gardien,4.0,0,0,0,0,0,0.4
+185,Václav,Hladký,3,Gardien,4.0,0,0,0,0,0,0.2
+186,Connor,Roberts,3,Défenseur,4.4,0,0,0,0,0,0.1
+187,Kyle,Walker,3,Défenseur,4.5,7,270,0,0,1,1.8
+188,Hannes,Delcroix,3,Défenseur,4.0,0,0,0,0,0,0.3
+189,Owen,Dodgson,3,Défenseur,4.0,0,0,0,0,0,0.0
+190,Hjalmar,Ekdal,3,Défenseur,4.0,13,262,0,0,1,1.1
+191,Maxime,Estève,3,Défenseur,4.0,8,262,0,0,1,17.8
+192,Quilindschy,Hartman,3,Défenseur,4.0,8,270,0,0,1,0.5
+193,Bashir,Humphreys,3,Défenseur,4.0,0,0,0,0,0,0.1
+194,Jordan,Beyer,3,Défenseur,4.0,0,0,0,0,0,0.1
+195,Lucas,Pires Silva,3,Défenseur,4.0,0,0,0,0,0,0.1
+196,Shurandy,Sambo,3,Défenseur,4.0,0,0,0,0,0,0.1
+197,Oliver,Sonne,3,Défenseur,4.0,3,102,0,0,0,0.1
+198,Axel,Tuanzebe,3,Défenseur,3.9,0,0,0,0,0,1.7
+199,Joe,Worrall,3,Défenseur,4.0,2,14,0,0,0,0.1
+200,Jaidon,Anthony,3,Milieu,5.5,21,264,2,1,1,0.8
+201,Manuel,Benson Hedilazio,3,Milieu,5.4,0,0,0,0,0,0.0
+202,Jacob,Bruun Larsen,3,Milieu,5.4,9,176,0,1,1,0.0
+203,Enock,Agyei,3,Milieu,4.9,0,0,0,0,0,0.0
+204,Darko,Churlinov,3,Milieu,4.9,0,0,0,0,0,0.0
+205,Josh,Cullen,3,Milieu,5.0,20,270,1,1,1,1.8
+206,Marcus,Edwards,3,Milieu,4.9,1,5,0,0,0,0.1
+207,Hannibal,Mejbri,3,Milieu,5.0,9,208,0,0,1,0.2
+208,Luca,Koleosho,3,Milieu,5.0,0,0,0,0,0,0.0
+209,Josh,Laurent,3,Milieu,5.0,3,97,0,0,0,0.0
+210,Loum,Tchaouna,3,Milieu,5.0,5,48,0,1,0,0.0
+211,Aaron,Ramsey,3,Milieu,4.4,0,0,0,0,0,6.4
+212,Oluwaseun,Adewumi,3,Milieu,4.5,0,0,0,0,0,0.0
+213,Jaydon,Banel,3,Milieu,4.5,0,0,0,0,0,0.0
+214,Mike,Trésor Ndayishimiye,3,Milieu,4.5,0,0,0,0,0,0.1
+215,Zian,Flemming,3,Attaquant,5.4,2,20,0,0,0,0.1
+216,Zeki,Amdouni,3,Attaquant,4.9,0,0,0,0,0,0.0
+217,Lyle,Foster,3,Attaquant,5.0,10,248,1,0,1,0.8
+218,Ashley,Barnes,3,Attaquant,4.4,0,0,0,0,0,1.7
+219,Michael,Obafemi,3,Attaquant,4.4,0,0,0,0,0,0.3
+470,Martin,Dúbravka,3,Gardien,4.0,10,270,0,0,1,33.9
+676,Lesley,Ugochukwu,3,Milieu,5.0,6,170,0,0,1,0.0
+680,Armando,Broja,3,Attaquant,5.4,0,0,0,0,0,0.2
+722,Florentino Ibrain,Morris Luís,3,Milieu,5.0,0,0,0,0,0,0.0
+66,Norberto,Murara Neto,4,Gardien,4.5,0,0,0,0,0,0.1
+67,Đorđe,Petrović,4,Gardien,4.5,13,270,0,0,2,4.0
+68,Will,Dennis,4,Gardien,4.0,0,0,0,0,0,1.1
+69,Callan,McKenna,4,Gardien,4.0,0,0,0,0,0,0.2
+70,Alex,Paulsen,4,Gardien,4.0,0,0,0,0,0,0.1
+71,Illia,Zabarnyi,4,Défenseur,5.0,0,0,0,0,0,0.0
+72,Marcos,Senesi Barón,4,Défenseur,4.6,25,270,0,1,2,5.2
+73,Adam,Smith,4,Défenseur,4.5,8,204,0,0,1,0.3
+74,Adrien,Truffert,4,Défenseur,4.5,13,270,0,0,2,1.1
+75,Matai,Akinmboni,4,Défenseur,4.0,0,0,0,0,0,0.3
+76,Owen,Bevan,4,Défenseur,4.0,0,0,0,0,0,0.2
+77,James,Hill,4,Défenseur,4.0,7,67,0,0,1,0.8
+78,Julián,Araujo Zúñiga,4,Défenseur,4.0,0,0,0,0,0,1.0
+79,Chris,Mepham,4,Défenseur,4.0,0,0,0,0,0,0.2
+80,Julio,Soler Barreto,4,Défenseur,4.0,0,0,0,0,0,0.3
+81,Justin,Kluivert,4,Milieu,7.0,2,21,0,0,0,0.7
+82,Antoine,Semenyo,4,Milieu,7.4,23,270,2,1,2,29.8
+84,Marcus,Tavernier,4,Milieu,5.5,18,247,1,0,2,1.4
+85,Tyler,Adams,4,Milieu,5.0,10,267,0,0,2,0.4
+86,David,Brooks,4,Milieu,5.0,11,212,0,1,2,0.3
+87,Ryan,Christie,4,Milieu,5.0,2,51,0,0,0,0.1
+88,Lewis,Cook,4,Milieu,4.9,0,0,0,0,0,0.0
+89,Philip,Billing,4,Milieu,4.9,0,0,0,0,0,0.0
+90,Alex,Scott,4,Milieu,5.0,7,200,0,0,2,0.1
+91,Luis,Sinisterra Lucumí,4,Milieu,5.0,0,0,0,0,0,0.0
+92,Romain,Faivre,4,Milieu,4.5,0,0,0,0,0,0.2
+93,Hamed,Traorè,4,Milieu,4.5,4,16,0,1,0,1.1
+94,Dominic,Sadi,4,Milieu,4.5,0,0,0,0,0,0.1
+95,Zain,Silcott-Duberry,4,Milieu,4.5,0,0,0,0,0,0.1
+96,Ben,Winterburn,4,Milieu,4.5,1,6,0,0,0,0.1
+97,Francisco Evanilson,de Lima Barbosa,4,Attaquant,7.0,11,257,1,0,2,2.2
+98,Enes,Ünal,4,Attaquant,5.5,0,0,0,0,0,0.0
+99,Daniel,Adu-Adjei,4,Attaquant,4.4,0,0,0,0,0,0.3
+100,Eli Junior,Kroupi,4,Attaquant,4.5,3,12,0,0,0,1.2
+391,Ben,Gannon-Doak,4,Milieu,5.0,0,0,0,0,0,0.1
+685,Bafodé,Diakité,4,Défenseur,4.5,16,270,0,0,2,0.4
+687,Remy,Rees-Dottin,4,Milieu,4.5,0,0,0,0,0,0.1
+697,Amine,Adli,4,Milieu,5.5,2,50,0,0,0,0.0
+713,Álex,Jiménez Sánchez,4,Défenseur,4.5,0,0,0,0,0,0.0
+721,Veljko,Milosavljevic,4,Défenseur,4.5,0,0,0,0,0,0.0
+27,Reiss,Nelson,5,Milieu,4.9,0,0,0,0,0,0.1
+83,Dango,Ouattara,5,Milieu,6.0,15,173,1,0,1,1.0
+101,Caoimhín,Kelleher,5,Gardien,4.5,7,270,0,0,1,9.7
+102,Ellery,Balcombe,5,Gardien,4.0,0,0,0,0,0,0.3
+103,Matthew,Cox,5,Gardien,4.0,0,0,0,0,0,0.1
+104,Julian,Eyestone,5,Gardien,4.0,0,0,0,0,0,0.1
+105,Hákon Rafn,Valdimarsson,5,Gardien,4.0,0,0,0,0,0,0.8
+106,Nathan,Collins,5,Défenseur,5.0,12,270,0,0,1,1.6
+107,Keane,Lewis-Potter,5,Défenseur,5.0,13,229,0,0,2,0.4
+108,Kristoffer,Ajer,5,Défenseur,4.5,1,5,0,0,0,0.2
+109,Rico,Henry,5,Défenseur,4.5,1,111,0,0,0,0.1
+110,Michael,Kayode,5,Défenseur,4.5,12,264,0,0,1,0.4
+111,Ethan,Pinnock,5,Défenseur,4.4,0,0,0,0,0,0.1
+112,Mads,Roerslev Rasmussen,5,Défenseur,4.5,0,0,0,0,0,0.0
+113,Sepp,van den Berg,5,Défenseur,4.5,14,270,0,0,1,0.7
+114,Benjamin,Arthur,5,Défenseur,4.0,0,0,0,0,0,0.3
+115,Benjamin,Fredrick,5,Défenseur,4.0,0,0,0,0,0,0.2
+116,Aaron,Hickey,5,Défenseur,4.0,1,13,0,0,0,0.4
+117,Kim,Ji-soo,5,Défenseur,4.0,0,0,0,0,0,0.1
+118,Jayden,Meghoma,5,Défenseur,4.0,0,0,0,0,0,0.1
+120,Kevin,Schade,5,Milieu,7.0,4,212,0,0,1,0.3
+121,Mikkel,Damsgaard,5,Milieu,5.9,7,180,0,0,1,0.8
+122,Antoni,Milambo,5,Milieu,5.4,1,45,0,0,0,0.1
+123,Fábio,Freitas Gouveia Carvalho,5,Milieu,4.9,3,91,0,0,0,0.2
+124,Jordan,Henderson,5,Milieu,5.0,7,159,0,0,2,0.3
+125,Vitaly,Janelt,5,Milieu,4.9,0,0,0,0,0,0.0
+126,Mathias,Jensen,5,Milieu,4.9,3,79,0,0,0,0.1
+127,Gustavo,Nunes Fernandes Gomes,5,Milieu,4.9,0,0,0,0,0,0.0
+128,Frank,Onyeka,5,Milieu,5.0,9,61,0,2,0,0.1
+129,Yehor,Yarmoliuk,5,Milieu,5.0,9,258,0,0,1,0.1
+130,Romelle,Donovan,5,Milieu,4.5,0,0,0,0,0,0.1
+131,Yunus Emre,Konak,5,Milieu,4.4,0,0,0,0,0,0.2
+132,Paris,Maghoma,5,Milieu,4.5,0,0,0,0,0,0.0
+133,Myles,Peart-Harris,5,Milieu,4.5,0,0,0,0,0,0.0
+134,Ryan,Trevitt,5,Milieu,4.5,0,0,0,0,0,0.0
+136,Igor Thiago,Nascimento Rodrigues,5,Attaquant,6.0,14,270,2,0,1,1.5
+137,Iwan,Morgan,5,Attaquant,4.4,0,0,0,0,0,0.4
+138,Jason,Steele,6,Gardien,4.5,0,0,0,0,0,0.4
+139,Bart,Verbruggen,6,Gardien,4.5,5,270,0,0,0,6.0
+140,Tom,McGill,6,Gardien,4.0,0,0,0,0,0,0.4
+141,Carl,Rushworth,6,Gardien,4.0,0,0,0,0,0,0.0
+142,Kjell,Scherpen,6,Gardien,4.0,0,0,0,0,0,0.0
+143,Olivier,Boscagli,6,Défenseur,4.4,0,0,0,0,0,0.1
+144,Diego,Coppola,6,Défenseur,4.4,1,1,0,0,0,0.1
+145,Maxim,De Cuyper,6,Défenseur,4.5,4,246,0,0,0,4.5
+146,Lewis,Dunk,6,Défenseur,4.5,8,270,0,1,0,1.2
+147,Pervis,Estupiñán Tenorio,6,Défenseur,4.5,0,0,0,0,0,0.0
+148,Ferdi,Kadıoğlu,6,Défenseur,4.4,0,44,0,0,0,0.1
+150,Tariq,Lamptey,6,Défenseur,4.4,0,0,0,0,0,0.3
+151,Jan Paul,van Hecke,6,Défenseur,4.5,4,270,0,0,0,1.0
+152,Joël,Veltman,6,Défenseur,4.4,1,90,0,0,0,0.2
+153,Adam,Webster,6,Défenseur,4.4,0,0,0,0,0,0.0
+154,Eiran,Cashin,6,Défenseur,4.0,0,0,0,0,0,0.0
+155,Jacob,Slater,6,Défenseur,4.0,0,0,0,0,0,0.2
+156,Charlie,Tasker,6,Défenseur,4.0,0,0,0,0,0,0.1
+157,Mitoma,Kaoru,6,Milieu,6.4,9,262,0,1,1,4.9
+158,Georginio,Rutter,6,Milieu,5.9,7,97,0,1,1,0.8
+159,Solly,March,6,Milieu,5.9,0,0,0,0,0,0.0
+160,Yankuba,Minteh,6,Milieu,5.9,9,248,0,0,1,0.8
+161,Julio,Enciso Espínola,6,Milieu,5.4,0,0,0,0,0,0.0
+162,Brajan,Gruda,6,Milieu,5.4,10,41,1,0,0,0.1
+163,Jack,Hinshelwood,6,Milieu,5.3,3,105,0,0,0,0.1
+164,Matt,O'Riley,6,Milieu,5.5,12,177,1,0,1,1.2
+165,Abdallah,Sima,6,Milieu,5.4,0,0,0,0,0,0.0
+166,Yasin,Ayari,6,Milieu,5.0,6,185,0,0,0,0.2
+167,Carlos,Baleba,6,Milieu,4.9,5,172,0,0,1,3.5
+169,Diego,Gómez Amarilla,6,Milieu,5.0,3,104,0,0,0,0.1
+170,James,Milner,6,Milieu,5.0,7,32,1,0,0,0.1
+171,Jeremy,Sarmiento Morante,6,Milieu,4.9,0,0,0,0,0,0.0
+172,Tom,Watson,6,Milieu,5.0,0,0,0,0,0,0.0
+173,Mats,Wieffer,6,Milieu,5.0,7,174,0,0,0,0.1
+174,Malick,Yalcouyé,6,Milieu,5.0,0,0,0,0,0,0.0
+175,Joe,Knight,6,Milieu,4.5,0,0,0,0,0,0.1
+176,Adrian,Mazilu,6,Milieu,4.5,0,0,0,0,0,0.0
+177,Andrew,Moran,6,Milieu,4.5,0,0,0,0,0,0.0
+178,Danny,Welbeck,6,Attaquant,6.4,3,171,0,0,0,2.3
+179,Evan,Ferguson,6,Attaquant,5.5,0,0,0,0,0,0.0
+180,Stefanos,Tzimas,6,Attaquant,5.4,0,0,0,0,0,0.1
+181,Charalampos,Kostoulas,6,Attaquant,4.9,0,0,0,0,0,0.3
+168,Facundo,Buonanotte,7,Milieu,4.9,0,0,0,0,0,0.1
+220,Robert,Lynch Sánchez,7,Gardien,5.0,17,270,0,0,2,24.4
+221,Filip,Jörgensen,7,Gardien,4.4,0,0,0,0,0,0.2
+222,Mike,Penders,7,Gardien,4.0,0,0,0,0,0,0.0
+223,Gabriel,Słonina,7,Gardien,4.0,0,0,0,0,0,0.1
+224,Marc,Cucurella Saseta,7,Défenseur,6.1,19,248,0,1,2,28.2
+225,Reece,James,7,Défenseur,5.5,7,108,0,0,1,5.1
+226,Trevoh,Chalobah,7,Défenseur,5.1,27,248,1,1,2,6.5
+227,Levi,Samuels Colwill,7,Défenseur,4.9,0,0,0,0,0,0.2
+228,Malo,Gusto,7,Défenseur,5.0,9,169,0,0,1,1.5
+229,Benoît,Badiashile Mukinayi,7,Défenseur,4.4,0,0,0,0,0,0.0
+230,Wesley,Fofana,7,Défenseur,4.4,1,21,0,0,0,0.2
+231,Mamadou,Sarr,7,Défenseur,4.5,0,0,0,0,0,0.0
+232,Tosin,Adarabioyo,7,Défenseur,4.5,10,180,0,0,1,1.1
+233,Josh,Acheampong,7,Défenseur,4.0,9,90,0,0,1,2.0
+234,Aarón,Anselmino,7,Défenseur,4.0,0,0,0,0,0,0.1
+235,Cole,Palmer,7,Milieu,10.4,3,90,0,0,1,22.8
+236,Pedro,Lomba Neto,7,Milieu,7.0,13,260,1,0,2,5.6
+237,Enzo,Fernández,7,Milieu,6.6,25,258,2,2,2,9.9
+238,Estêvão,Almeida de Oliveira Gonçalves,7,Milieu,6.5,8,179,0,1,1,2.5
+239,Jamie,Bynoe-Gittens,7,Milieu,6.3,3,88,0,0,0,0.2
+240,Christopher,Nkunku,7,Milieu,5.9,0,0,0,0,0,0.1
+241,Moisés,Caicedo Corozo,7,Milieu,5.5,17,270,1,0,2,6.8
+243,Tyrique,George,7,Milieu,4.9,3,66,0,0,1,0.1
+244,Roméo,Lavia,7,Milieu,4.9,0,0,0,0,0,0.0
+245,Mykhailo,Mudryk,7,Milieu,5.0,0,0,0,0,0,0.0
+246,Andrey,Nascimento dos Santos,7,Milieu,4.5,2,48,0,0,0,0.3
+247,Dário,Luís Essugo,7,Milieu,4.4,0,0,0,0,0,0.1
+248,Kendry,Páez Andrade,7,Milieu,4.5,0,0,0,0,0,0.0
+249,João Pedro,Junqueira de Jesus,7,Attaquant,7.7,26,252,2,2,2,63.9
+250,Liam,Delap,7,Attaquant,6.3,4,91,0,0,0,2.1
+251,Nicolas,Jackson,7,Attaquant,6.5,0,0,0,0,0,0.1
+252,Marc,Guiu Paz,7,Attaquant,4.4,2,13,0,0,0,13.2
+453,Alejandro,Garnacho Ferreyra,7,Milieu,6.4,0,0,0,0,0,0.3
+672,Jorrel,Hato,7,Défenseur,4.9,0,21,0,0,0,0.2
+253,Dean,Henderson,8,Gardien,5.0,15,270,0,0,2,7.6
+254,Walter,Benítez,8,Gardien,4.0,0,0,0,0,0,0.4
+255,Remi,Matthews,8,Gardien,4.0,0,0,0,0,0,0.1
+256,Daniel,Muñoz Mejía,8,Défenseur,5.5,19,270,0,1,2,11.1
+257,Maxence,Lacroix,8,Défenseur,5.0,22,270,0,1,2,2.3
+258,Tyrick,Mitchell,8,Défenseur,5.0,16,270,0,0,2,1.8
+259,Borna,Sosa,8,Défenseur,5.0,0,0,0,0,0,0.1
+260,Marc,Guéhi,8,Défenseur,4.6,23,270,1,0,2,16.1
+261,Chris,Richards,8,Défenseur,4.5,16,270,0,0,2,1.7
+262,Chadi,Riad Dnanou,8,Défenseur,4.0,0,0,0,0,0,0.0
+263,Nathaniel,Clyne,8,Défenseur,4.0,1,4,0,0,0,0.6
+264,Rob,Holding,8,Défenseur,4.0,0,0,0,0,0,0.0
+265,Caleb,Kporha,8,Défenseur,4.0,0,0,0,0,0,0.0
+267,Ismaïla,Sarr,8,Milieu,6.5,18,270,2,0,2,6.7
+268,Cheick,Doucouré,8,Milieu,5.0,0,0,0,0,0,0.0
+269,Romain,Esse,8,Milieu,4.9,1,24,0,0,0,0.2
+270,Will,Hughes,8,Milieu,4.9,5,229,0,0,2,0.1
+271,Daichi,Kamada,8,Milieu,5.0,6,85,0,1,1,0.1
+272,Jefferson,Lerma Solís,8,Milieu,5.0,3,62,0,0,0,0.1
+273,Adam,Wharton,8,Milieu,5.0,6,226,0,0,1,0.5
+274,Asher,Agbinone,8,Milieu,4.5,0,0,0,0,0,0.1
+275,Naouirou,Ahamada,8,Milieu,4.5,0,0,0,0,0,0.0
+276,Justin,Devenny,8,Milieu,4.5,4,76,0,0,0,1.5
+277,Malcolm,Ebiowei,8,Milieu,4.5,0,0,0,0,0,0.0
+278,Jesurun,Rak-Sakyi,8,Milieu,4.5,0,0,0,0,0,0.1
+279,Matheus,França de Oliveira,8,Milieu,4.5,0,0,0,0,0,0.0
+280,David,Ozoh,8,Milieu,4.5,0,0,0,0,0,0.0
+281,Kaden,Rodney,8,Milieu,4.5,0,0,0,0,0,0.0
+282,Franco,Umeh-Chibueze,8,Milieu,4.5,0,0,0,0,0,0.0
+283,Jean-Philippe,Mateta,8,Attaquant,7.5,8,261,1,0,2,9.2
+284,Eddie,Nketiah,8,Attaquant,5.4,0,0,0,0,0,0.2
+285,Odsonne,Édouard,8,Attaquant,5.0,1,2,0,0,0,0.5
+286,Zach,Marsh,8,Attaquant,4.5,0,0,0,0,0,0.2
+690,Rio,Cardines,8,Milieu,4.5,0,0,0,0,0,0.2
+712,Yéremy,Pino Santos,8,Milieu,6.0,1,19,0,0,0,0.0
+723,Jaydee,Canvot,8,Défenseur,4.5,0,0,0,0,0,0.0
+732,Christantus,Uche,8,Attaquant,5.5,0,0,0,0,0,0.0
+242,Kiernan,Dewsbury-Hall,9,Milieu,5.0,16,270,1,1,1,4.3
+287,Jordan,Pickford,9,Gardien,5.5,18,270,0,0,1,12.0
+288,Mark,Travers,9,Gardien,4.5,0,0,0,0,0,0.1
+289,Harry,Tyrer,9,Gardien,4.0,0,0,0,0,0,0.1
+290,Jarrad,Branthwaite,9,Défenseur,5.3,0,0,0,0,0,0.3
+291,James,Tarkowski,9,Défenseur,5.5,15,270,0,0,1,7.2
+292,Vitalii,Mykolenko,9,Défenseur,4.9,1,90,0,0,0,0.5
+293,Jake,O'Brien,9,Défenseur,5.0,9,270,0,0,1,0.5
+294,Séamus,Coleman,9,Défenseur,4.5,1,1,0,0,0,0.1
+295,Michael,Keane,9,Défenseur,4.5,13,270,0,0,1,0.6
+296,Nathan,Patterson,9,Défenseur,4.4,0,0,0,0,0,0.0
+297,Roman,Dixon,9,Défenseur,4.0,0,0,0,0,0,0.2
+298,Reece,Welch,9,Défenseur,4.0,0,0,0,0,0,0.1
+299,Iliman,Ndiaye,9,Milieu,6.5,17,243,2,0,1,9.5
+300,Dwight,McNeil,9,Milieu,5.8,1,19,0,0,0,0.2
+301,Carlos,Alcaraz Durán,9,Milieu,5.4,3,113,0,0,0,0.1
+302,Idrissa Gana,Gueye,9,Milieu,5.4,7,255,0,0,1,0.1
+303,James,Garner,9,Milieu,5.0,16,270,1,0,1,0.3
+304,Tim,Iroegbunam,9,Milieu,5.0,5,154,0,0,2,0.0
+305,Harrison,Armstrong,9,Milieu,4.5,1,1,0,0,0,0.1
+306,Callum,Bates,9,Milieu,4.5,0,0,0,0,0,0.1
+307,Coby,Ebere,9,Milieu,4.5,0,0,0,0,0,0.0
+308,Isaac,Heath,9,Milieu,4.5,0,0,0,0,0,0.0
+309,Jenson,Metcalfe,9,Milieu,4.5,0,0,0,0,0,0.0
+310,Thierno,Barry,9,Attaquant,5.9,4,81,0,0,1,0.5
+311,Norberto Bercique,Gomes Betuncal,9,Attaquant,5.4,9,191,1,0,0,5.5
+312,Youssef,Ramalho Chermiti,9,Attaquant,4.9,0,0,0,0,0,0.1
+313,Martin,Sherif,9,Attaquant,4.4,0,0,0,0,0,0.2
+419,Jack,Grealish,9,Milieu,6.7,22,196,0,4,1,15.3
+630,Tom,King,9,Gardien,4.0,0,0,0,0,0,1.4
+667,Adam,Aznou,9,Défenseur,4.4,0,0,0,0,0,0.1
+704,Tyler,Onyango,9,Milieu,4.5,0,0,0,0,0,0.1
+705,Elijah,Campbell,9,Défenseur,4.0,0,0,0,0,0,0.2
+707,Tyler,Dibling,9,Milieu,5.5,0,0,0,0,0,0.0
+728,Merlin,Röhl,9,Milieu,5.0,0,0,0,0,0,0.0
+314,Bernd,Leno,10,Gardien,5.0,8,270,0,0,0,1.6
+315,Steven,Benda,10,Gardien,4.0,0,0,0,0,0,0.0
+316,Antonee,Robinson,10,Défenseur,5.0,2,51,0,0,0,0.8
+317,Joachim,Andersen,10,Défenseur,4.5,9,270,0,0,0,2.7
+318,Calvin,Bassey,10,Défenseur,4.5,4,270,0,0,0,0.5
+319,Timothy,Castagne,10,Défenseur,4.5,3,126,0,0,0,0.1
+320,Issa,Diop,10,Défenseur,4.4,0,0,0,0,0,0.1
+321,Jorge,Cuenca Barreno,10,Défenseur,4.5,2,83,0,0,0,0.0
+322,Kenny,Tete,10,Défenseur,4.5,7,270,0,0,0,0.2
+323,Samuel,Amissah,10,Défenseur,4.0,0,0,0,0,0,0.2
+324,Alex,Iwobi,10,Milieu,6.5,10,238,0,1,0,1.4
+325,Emile,Smith Rowe,10,Milieu,5.9,8,55,1,0,0,0.8
+326,Adama,Traoré Diarra,10,Milieu,5.4,2,30,0,0,0,0.2
+327,Andreas,Hoelgebaum Pereira,10,Milieu,5.3,0,0,0,0,0,0.2
+328,Ryan,Sessegnon,10,Milieu,5.4,4,127,0,0,0,0.0
+329,Harry,Wilson,10,Milieu,5.4,7,148,0,1,0,0.6
+330,Sander,Berge,10,Milieu,5.0,6,245,0,0,0,0.1
+331,Tom,Cairney,10,Milieu,4.9,0,24,0,0,0,0.0
+332,Saša,Lukić,10,Milieu,5.0,6,270,0,0,0,0.1
+333,Martial,Godo,10,Milieu,4.5,0,0,0,0,0,0.1
+334,Luke,Harris,10,Milieu,4.5,0,0,0,0,0,0.0
+335,Josh,King,10,Milieu,4.5,6,212,0,0,0,1.9
+336,Harrison,Reed,10,Milieu,4.4,0,0,0,0,0,0.3
+337,Raúl,Jiménez Rodríguez,10,Attaquant,6.4,4,115,0,0,0,1.4
+338,Rodrigo,Muniz Carvalho,10,Attaquant,5.5,8,152,1,0,0,2.3
+664,Benjamin,Lecomte,10,Gardien,4.0,0,0,0,0,0,0.8
+727,Samuel,Chukwueze,10,Milieu,5.5,0,0,0,0,0,0.0
+731,Kevin,Santos Lopes de Macedo,10,Milieu,6.0,0,0,0,0,0,0.0
+339,Illan,Meslier,11,Gardien,4.4,0,0,0,0,0,0.6
+340,Alex,Cairns,11,Gardien,4.0,0,0,0,0,0,0.2
+341,Karl,Darlow,11,Gardien,4.0,0,0,0,0,0,2.5
+342,Jayden,Bogle,11,Défenseur,4.5,11,262,0,0,2,0.2
+343,Pascal,Struijk,11,Défenseur,4.5,14,270,0,0,2,0.4
+344,Jaka,Bijol,11,Défenseur,4.0,0,0,0,0,0,0.2
+345,Sebastiaan,Bornauw,11,Défenseur,4.0,0,0,0,0,0,0.1
+346,Sam,Byram,11,Défenseur,4.0,1,7,0,0,0,0.2
+347,Gabriel,Gudmundsson,11,Défenseur,4.0,17,259,0,0,2,3.8
+348,Joe,Rodon,11,Défenseur,4.0,16,270,0,0,2,2.8
+349,Isaac,Schmidt,11,Défenseur,4.0,0,0,0,0,0,0.2
+350,Brenden,Aaronson,11,Milieu,5.4,3,77,0,0,0,0.1
+351,Wilfried,Gnonto,11,Milieu,5.4,5,190,0,0,1,0.3
+352,Jack,Harrison,11,Milieu,5.4,2,42,0,0,0,0.1
+353,Daniel,James,11,Milieu,5.4,6,201,0,0,1,0.4
+354,Ethan,Ampadu,11,Milieu,4.9,3,77,0,0,1,0.0
+355,Sam,Greenwood,11,Milieu,4.9,0,0,0,0,0,0.1
+356,Ilia,Gruev,11,Milieu,5.0,6,192,0,0,1,0.0
+357,Largie,Ramazani,11,Milieu,4.9,0,0,0,0,0,0.0
+358,Tanaka,Ao,11,Milieu,4.9,4,147,0,0,1,0.2
+359,Charlie,Crew,11,Milieu,4.5,0,0,0,0,0,0.0
+360,Joe,Gelhardt,11,Milieu,4.5,0,0,0,0,0,0.0
+361,Darko,Gyabi,11,Milieu,4.5,0,0,0,0,0,0.1
+362,Joël,Piroe,11,Attaquant,5.4,3,134,0,0,1,1.1
+363,Patrick,Bamford,11,Attaquant,4.9,0,0,0,0,0,1.1
+364,Mateo,Joseph Fernández-Regatillo,11,Attaquant,5.0,0,0,0,0,0,0.0
+365,Lukas,Nmecha,11,Attaquant,5.0,8,113,1,0,1,0.8
+493,Sean,Longstaff,11,Milieu,4.9,7,123,0,0,1,0.2
+660,Anton,Stach,11,Milieu,5.0,13,270,0,1,2,0.5
+665,Lucas Estella,Perri,11,Gardien,4.5,12,270,0,0,2,0.4
+691,Dominic,Calvert-Lewin,11,Attaquant,5.5,1,20,0,0,0,0.1
+698,Noah,Okafor,11,Milieu,5.5,1,24,0,0,0,0.0
+706,James,Justin,11,Défenseur,4.0,1,10,0,0,0,0.2
+366,Alisson,Becker,12,Gardien,5.5,10,270,0,0,1,10.6
+367,Giorgi,Mamardashvili,12,Gardien,4.4,0,0,0,0,0,0.4
+368,Ármin,Pécsi,12,Gardien,4.0,0,0,0,0,0,0.1
+369,Freddie,Woodman,12,Gardien,4.0,0,0,0,0,0,0.1
+370,Jeremie,Frimpong,12,Défenseur,5.9,1,59,0,0,0,9.4
+371,Milos,Kerkez,12,Défenseur,6.0,7,239,0,0,1,5.9
+372,Andrew,Robertson,12,Défenseur,5.9,0,30,0,0,0,1.1
+373,Virgil,van Dijk,12,Défenseur,6.0,14,270,0,0,1,26.1
+374,Ibrahima,Konaté,12,Défenseur,5.5,7,258,0,0,1,2.9
+375,Conor,Bradley,12,Défenseur,5.0,0,10,0,0,0,0.1
+376,Joe,Gomez,12,Défenseur,5.0,2,29,0,0,0,0.1
+377,Konstantinos,Tsimikas,12,Défenseur,4.9,0,0,0,0,0,0.1
+378,Amara,Nallo,12,Défenseur,3.9,0,0,0,0,0,0.2
+379,Rhys,Williams,12,Défenseur,3.9,0,0,0,0,0,0.2
+380,Calvin,Ramsay,12,Défenseur,3.9,0,0,0,0,0,0.2
+381,Mohamed,Salah,12,Milieu,14.5,16,270,1,1,1,53.9
+382,Florian,Wirtz,12,Milieu,8.4,7,248,0,0,1,20.6
+383,Luis,Díaz Marulanda,12,Milieu,8.0,0,0,0,0,0,0.1
+384,Cody,Gakpo,12,Milieu,7.7,20,270,1,2,1,16.2
+385,Federico,Chiesa,12,Milieu,6.5,8,29,1,0,0,0.3
+386,Alexis,Mac Allister,12,Milieu,6.4,8,131,0,1,1,1.5
+387,Dominik,Szoboszlai,12,Milieu,6.5,17,270,1,0,1,2.7
+388,Curtis,Jones,12,Milieu,5.4,7,137,0,1,0,0.1
+390,Ryan,Gravenberch,12,Milieu,5.5,9,180,1,0,1,0.6
+392,Endo,Wataru,12,Milieu,5.0,5,32,0,1,0,0.1
+393,Stefan,Bajčetić Maquieira,12,Milieu,4.4,0,0,0,0,0,0.1
+394,James,McConnell,12,Milieu,4.4,0,0,0,0,0,0.0
+395,Tyler,Morton,12,Milieu,4.5,0,0,0,0,0,0.0
+396,Trey,Nyoni,12,Milieu,4.4,0,0,0,0,0,0.2
+397,Darwin,Núñez Ribeiro,12,Attaquant,6.5,0,0,0,0,0,0.1
+398,Jayden,Danns,12,Attaquant,4.4,0,0,0,0,0,0.1
+499,Alexander,Isak,12,Attaquant,10.4,0,0,0,0,0,7.3
+661,Hugo,Ekitiké,12,Attaquant,8.7,22,228,2,1,1,29.6
+686,Rio,Ngumoha,12,Milieu,4.5,6,1,1,0,0,0.4
+692,Giovanni,Leoni,12,Défenseur,5.0,0,0,0,0,0,0.0
+182,James,Trafford,13,Gardien,5.0,11,270,0,0,1,2.3
+399,Ederson,Santana de Moraes,13,Gardien,5.3,0,0,0,0,0,1.8
+400,Stefan,Ortega Moreno,13,Gardien,4.9,0,0,0,0,0,0.2
+401,Marcus,Bettinelli,13,Gardien,4.0,0,0,0,0,0,0.1
+402,Rayan,Aït-Nouri,13,Défenseur,6.0,10,202,0,0,1,17.0
+403,Joško,Gvardiol,13,Défenseur,5.8,0,0,0,0,0,3.2
+404,Manuel,Akanji,13,Défenseur,5.4,0,0,0,0,0,0.6
+405,Nathan,Aké,13,Défenseur,5.5,1,67,0,0,0,0.7
+406,Abdukodir,Khusanov,13,Défenseur,5.4,2,92,0,0,0,0.3
+407,Matheus,Nunes,13,Défenseur,5.4,3,108,0,0,0,0.3
+408,Rúben,dos Santos Gato Alves Dias,13,Défenseur,5.5,8,185,0,0,1,4.0
+409,John,Stones,13,Défenseur,5.5,8,261,0,0,1,1.1
+410,Rico,Lewis,13,Défenseur,5.0,13,160,0,1,1,3.6
+411,Nico,O'Reilly,13,Défenseur,4.9,1,42,0,0,0,0.1
+412,Vitor,de Oliveira Nunes dos Reis,13,Défenseur,5.0,0,0,0,0,0,0.0
+413,Omar,Marmoush,13,Milieu,8.4,9,148,0,1,0,7.5
+414,Phil,Foden,13,Milieu,8.0,1,15,0,0,0,1.5
+415,Sávio,Moreira de Oliveira,13,Milieu,6.9,0,0,0,0,0,0.4
+416,Bernardo,Mota Veiga de Carvalho e Silva,13,Milieu,6.4,6,172,0,0,1,0.7
+417,Rayan,Cherki,13,Milieu,6.5,7,70,1,0,0,5.5
+418,Jérémy,Doku,13,Milieu,6.4,5,119,0,0,1,0.9
+420,İlkay,Gündoğan,13,Milieu,6.3,0,0,0,0,0,0.1
+421,Rodrigo 'Rodri',Hernandez Cascante,13,Milieu,6.4,3,105,0,0,0,0.6
+422,Mateo,Kovačić,13,Milieu,6.0,0,0,0,0,0,0.0
+423,Nico,González Iglesias,13,Milieu,6.0,4,164,0,0,1,0.1
+424,Oscar,Bobb,13,Milieu,5.5,10,254,0,1,1,0.5
+425,Claudio,Echeverri,13,Milieu,5.4,0,0,0,0,0,0.0
+427,Tijjani,Reijnders,13,Milieu,5.7,14,270,1,1,1,32.6
+428,Sverre,Nypan,13,Milieu,5.0,0,0,0,0,0,0.0
+429,Kalvin,Phillips,13,Milieu,4.9,0,0,0,0,0,0.1
+430,Erling,Haaland,13,Attaquant,14.1,24,252,3,0,1,32.2
+736,Gianluigi,Donnarumma,13,Gardien,5.5,0,0,0,0,0,0.7
+119,Bryan,Mbeumo,14,Milieu,8.1,14,270,1,0,0,16.1
+431,Altay,Bayındır,14,Gardien,5.0,5,270,0,0,0,0.5
+432,André,Onana,14,Gardien,4.9,0,0,0,0,0,0.3
+433,Elyh,Harrison,14,Gardien,4.0,0,0,0,0,0,0.0
+434,Tom,Heaton,14,Gardien,4.0,0,0,0,0,0,0.3
+435,Dermot,Mee,14,Gardien,4.0,0,0,0,0,0,0.1
+436,Matthijs,de Ligt,14,Défenseur,5.0,12,270,0,0,0,3.1
+437,Lisandro,Martínez,14,Défenseur,4.9,0,0,0,0,0,0.1
+438,Noussair,Mazraoui,14,Défenseur,4.9,1,5,0,0,0,0.2
+439,Diego,León Blanco,14,Défenseur,4.4,0,0,0,0,0,0.1
+440,Diogo,Dalot Teixeira,14,Défenseur,4.5,6,182,0,1,0,1.8
+441,Patrick,Dorgu,14,Défenseur,4.5,3,180,0,0,0,7.2
+442,Harry,Maguire,14,Défenseur,4.5,2,13,0,0,0,0.7
+443,Luke,Shaw,14,Défenseur,4.5,5,255,0,0,0,0.3
+444,Leny,Yoro,14,Défenseur,4.5,11,260,0,1,0,2.5
+445,Harry,Amass,14,Défenseur,4.0,0,0,0,0,0,0.1
+446,Tyler,Fredricson,14,Défenseur,4.0,0,0,0,0,0,0.1
+447,Ayden,Heaven,14,Défenseur,4.0,1,3,0,0,0,1.2
+448,Tyrell,Malacia,14,Défenseur,4.0,0,0,0,0,0,0.3
+449,Bruno,Borges Fernandes,14,Milieu,9.0,14,270,1,0,0,21.4
+450,Matheus,Santos Carneiro da Cunha,14,Milieu,8.1,5,210,0,0,0,9.5
+451,Marcus,Rashford,14,Milieu,7.0,0,0,0,0,0,0.0
+452,Amad,Diallo,14,Milieu,6.4,7,176,0,1,0,2.0
+454,Antony,dos Santos,14,Milieu,5.9,0,0,0,0,0,0.1
+455,Mason,Mount,14,Milieu,6.0,6,177,0,0,1,0.3
+457,Carlos Henrique,Casimiro,14,Milieu,5.5,7,187,0,1,0,0.2
+458,Kobbie,Mainoo,14,Milieu,4.9,1,45,0,0,0,0.5
+459,Manuel,Ugarte Ribeiro,14,Milieu,4.9,2,46,0,0,0,0.1
+460,Toby,Collyer,14,Milieu,4.5,0,0,0,0,0,0.1
+461,Jayce,Fitzgerald,14,Milieu,4.5,0,0,0,0,0,0.0
+462,Jack,Fletcher,14,Milieu,4.4,0,0,0,0,0,0.0
+463,Sékou,Koné,14,Milieu,4.5,0,0,0,0,0,0.1
+464,Jack,Moorhouse,14,Milieu,4.5,0,0,0,0,0,0.0
+465,Rasmus,Højlund,14,Attaquant,6.3,0,0,0,0,0,0.4
+466,Joshua,Zirkzee,14,Attaquant,5.9,1,59,0,0,0,0.4
+467,Chido,Obi,14,Attaquant,4.4,0,0,0,0,0,1.6
+468,Ethan,Wheatley,14,Attaquant,4.5,0,0,0,0,0,0.1
+681,Benjamin,Sesko,14,Attaquant,7.4,3,80,0,0,0,6.1
+733,Senne,Lammens,14,Gardien,5.0,0,0,0,0,0,0.1
+52,Jacob,Ramsey,15,Milieu,5.4,2,59,0,0,0,0.4
+135,Yoane,Wissa,15,Attaquant,7.5,0,0,0,0,0,1.3
+469,Nick,Pope,15,Gardien,5.0,18,270,0,1,2,5.5
+471,Mark,Gillespie,15,Gardien,4.0,0,0,0,0,0,0.1
+472,Odysseas,Vlachodimos,15,Gardien,4.0,0,0,0,0,0,0.0
+473,Lewis,Hall,15,Défenseur,5.4,2,43,0,0,0,1.6
+474,Fabian,Schär,15,Défenseur,5.5,15,260,0,0,2,2.8
+475,Sven,Botman,15,Défenseur,4.9,8,67,0,0,1,0.5
+476,Dan,Burn,15,Défenseur,5.0,17,270,0,0,2,5.4
+477,Tino,Livramento,15,Défenseur,5.1,19,270,0,1,2,8.4
+478,Kieran,Trippier,15,Défenseur,5.0,13,226,0,0,2,2.7
+479,Emil,Krafth,15,Défenseur,4.5,0,0,0,0,0,0.0
+480,Jamaal,Lascelles,15,Défenseur,4.4,0,0,0,0,0,0.1
+481,Alex,Murphy,15,Défenseur,4.0,0,0,0,0,0,0.7
+482,Harrison,Ashby,15,Défenseur,4.0,0,0,0,0,0,0.1
+483,Miodrag,Pivaš,15,Défenseur,4.0,0,0,0,0,0,0.1
+484,Matt,Targett,15,Défenseur,4.0,0,0,0,0,0,0.4
+485,Anthony,Gordon,15,Milieu,7.4,1,137,0,0,1,1.2
+486,Anthony,Elanga,15,Milieu,7.0,6,195,0,0,1,8.6
+487,Harvey,Barnes,15,Milieu,6.5,6,186,0,0,1,1.1
+488,Bruno,Guimarães Rodriguez Moura,15,Milieu,6.5,12,270,1,0,2,2.4
+489,Jacob,Murphy,15,Milieu,6.3,4,73,0,0,1,1.3
+490,Joelinton Cássio,Apolinário de Lira,15,Milieu,5.9,4,157,0,0,1,0.3
+491,Sandro,Tonali,15,Milieu,5.4,8,245,0,0,2,1.3
+492,Antoñito,Cordero Campillo,15,Milieu,4.9,0,0,0,0,0,0.0
+494,Joe,Willock,15,Milieu,5.0,0,0,0,0,0,0.0
+495,Isaac,Hayden,15,Milieu,4.5,0,0,0,0,0,0.0
+496,Garang,Kuol,15,Milieu,4.5,0,0,0,0,0,0.1
+497,Lewis,Miley,15,Milieu,4.5,3,76,0,0,0,2.1
+498,Joe,White,15,Milieu,4.5,0,0,0,0,0,0.0
+500,William,Osula,15,Attaquant,5.5,8,105,1,0,1,0.5
+501,Sean,Neave,15,Attaquant,4.4,0,0,0,0,0,0.2
+674,Aaron,Ramsdale,15,Gardien,4.9,0,0,0,0,0,0.7
+684,Malick,Thiaw,15,Défenseur,5.0,1,9,0,0,0,0.2
+689,Seung-Soo,Park,15,Milieu,4.5,0,0,0,0,0,0.2
+714,Nick,Woltemade,15,Attaquant,7.0,0,0,0,0,0,0.2
+12,Oleksandr,Zinchenko,16,Défenseur,4.9,0,0,0,0,0,0.3
+426,James,McAtee,16,Milieu,5.5,2,50,0,0,0,0.2
+502,Matz,Sels,16,Gardien,5.0,6,270,0,0,0,16.8
+503,Carlos Miguel,dos Santos Pereira,16,Gardien,4.0,0,0,0,0,0,0.1
+504,Matt,Turner,16,Gardien,4.0,0,0,0,0,0,0.1
+505,Nikola,Milenković,16,Défenseur,5.5,5,270,0,0,0,8.4
+506,Murillo,Costa dos Santos,16,Défenseur,5.5,4,270,0,0,0,5.7
+507,Ola,Aina,16,Défenseur,5.0,6,270,0,0,0,13.0
+508,Neco,Williams,16,Défenseur,5.0,4,270,0,0,0,8.3
+509,David,Mota Veiga Teixeira do Carmo,16,Défenseur,4.5,0,0,0,0,0,0.0
+510,Jair,Paula da Cunha Filho,16,Défenseur,4.4,0,0,0,0,0,0.1
+511,Felipe,Rodrigues da Silva,16,Défenseur,4.4,0,0,0,0,0,0.1
+512,Omar,Richards,16,Défenseur,4.5,0,0,0,0,0,0.0
+513,Zach,Abbott,16,Défenseur,4.0,0,0,0,0,0,0.2
+514,Willy,Boly,16,Défenseur,4.0,0,0,0,0,0,0.4
+515,Morgan,Gibbs-White,16,Milieu,7.5,9,254,0,1,0,5.7
+516,Callum,Hudson-Odoi,16,Milieu,6.0,14,249,1,0,0,1.6
+517,Elliot,Anderson,16,Milieu,5.5,10,270,0,1,0,5.6
+518,João Pedro,Ferreira da Silva,16,Milieu,5.4,1,11,0,0,0,0.1
+519,Nicolás,Domínguez,16,Milieu,5.0,0,0,0,0,0,0.0
+520,Lewis,O'Brien,16,Milieu,5.0,0,0,0,0,0,0.0
+521,Ibrahim,Sangaré,16,Milieu,5.0,8,265,0,0,0,0.1
+522,Ryan,Yates,16,Milieu,4.9,2,8,0,0,0,0.1
+523,Eric,da Silva Moreira,16,Milieu,4.5,0,0,0,0,0,0.1
+524,Marko,Stamenić,16,Milieu,4.5,0,0,0,0,0,0.0
+525,Chris,Wood,16,Attaquant,7.7,17,237,2,0,1,24.9
+526,Igor Jesus,Maciel da Cruz,16,Attaquant,5.9,3,30,0,0,0,0.5
+527,Taiwo,Awoniyi,16,Attaquant,5.4,0,0,0,0,0,0.5
+669,Dan,Ndoye,16,Milieu,6.1,17,205,1,1,0,3.4
+675,Angus,Gunn,16,Gardien,4.0,0,0,0,0,0,1.7
+693,Omari,Hutchinson,16,Milieu,5.5,2,9,0,0,0,0.0
+696,Arnaud,Kalimuendo,16,Attaquant,6.0,2,20,0,0,0,0.1
+699,Douglas Luiz,Soares de Paulo,16,Milieu,5.0,0,0,0,0,0,0.1
+715,John Victor,Maciel Furtado,16,Gardien,4.0,0,0,0,0,0,0.1
+716,Nicolò,Savona,16,Défenseur,4.5,0,0,0,0,0,0.0
+729,Luis Eduardo,Soares da Silva,16,Défenseur,4.5,0,0,0,0,0,0.0
+734,Dilane,Bakwa,16,Milieu,6.0,0,0,0,0,0,0.0
+528,Anthony,Patterson,17,Gardien,4.4,0,0,0,0,0,0.3
+529,Simon,Moore,17,Gardien,4.0,0,0,0,0,0,0.5
+530,Blondy,Nna Noukeu,17,Gardien,4.0,0,0,0,0,0,0.1
+531,Daniel,Ballard,17,Défenseur,4.6,18,98,1,0,1,3.8
+532,Trai,Hume,17,Défenseur,4.5,9,270,0,0,1,0.3
+533,Aji,Alese,17,Défenseur,4.0,0,0,0,0,0,0.0
+534,Joe,Anderson,17,Défenseur,4.0,0,0,0,0,0,0.4
+535,Dennis,Cirkin,17,Défenseur,4.0,0,0,0,0,0,0.0
+536,Leo Fuhr,Hjelde,17,Défenseur,4.0,0,0,0,0,0,0.0
+537,Niall,Huggins,17,Défenseur,4.0,0,0,0,0,0,0.2
+538,Zak,Johnson,17,Défenseur,4.0,0,0,0,0,0,0.2
+539,Luke,O'Nien,17,Défenseur,4.0,0,0,0,0,0,0.0
+540,Timothée,Pembélé,17,Défenseur,4.0,0,0,0,0,0,0.2
+541,Reinildo,Mandava,17,Défenseur,4.0,10,270,0,0,1,8.3
+542,Jenson,Seelt,17,Défenseur,4.0,2,133,0,0,0,0.2
+543,Simon,Adingra,17,Milieu,5.5,8,162,0,1,1,1.4
+544,Habib,Diarra,17,Milieu,5.5,9,255,0,1,1,0.1
+545,Patrick,Roberts,17,Milieu,5.4,1,27,0,0,0,0.0
+546,Milan,Aleksić,17,Milieu,4.9,0,0,0,0,0,0.0
+547,Enzo,Le Fée,17,Milieu,4.9,13,131,1,0,0,0.4
+548,Romaine,Mundle,17,Milieu,4.9,0,0,0,0,0,0.0
+549,Dan,Neil,17,Milieu,4.9,0,0,0,0,0,0.0
+550,Ian,Poveda-Ocampo,17,Milieu,4.9,0,0,0,0,0,0.0
+551,Chris,Rigg,17,Milieu,4.9,1,1,0,0,0,0.0
+552,Noah,Sadiki,17,Milieu,5.0,7,270,0,0,1,0.0
+553,Chemsdine,Talbi,17,Milieu,5.0,11,216,0,1,2,0.3
+554,Abdoullah,Ba,17,Milieu,4.4,0,0,0,0,0,0.2
+555,Alan,Browne,17,Milieu,4.5,0,0,0,0,0,0.1
+556,Pierre,Ekwah Elimby,17,Milieu,4.5,0,0,0,0,0,0.0
+557,Harrison,Jones,17,Milieu,4.5,0,0,0,0,0,0.1
+558,Jay,Matete,17,Milieu,4.4,0,0,0,0,0,0.2
+559,Nectarios,Triantis,17,Milieu,4.4,0,0,0,0,0,0.1
+560,Wilson,Isidor,17,Attaquant,5.5,14,66,2,0,0,0.5
+561,Eliezer,Mayenda Dossou,17,Attaquant,5.5,12,201,1,0,2,1.8
+562,Ahmed,Abdullahi,17,Attaquant,4.4,0,0,0,0,0,0.4
+563,Luís Hemir,Silva Semedo,17,Attaquant,4.4,0,0,0,0,0,0.2
+564,Nazarii,Rusyn,17,Attaquant,4.4,0,0,0,0,0,0.2
+668,Granit,Xhaka,17,Milieu,5.0,11,270,0,1,1,2.7
+670,Robin,Roefs,17,Gardien,4.5,17,270,0,0,1,1.3
+678,Arthur,Masuaku,17,Défenseur,4.0,0,0,0,0,0,0.7
+683,Omar,Alderete,17,Défenseur,4.0,9,217,0,1,0,1.3
+694,Nordi,Mukiele,17,Défenseur,4.0,4,90,0,0,0,0.4
+724,Lutsharel,Geertruida,17,Défenseur,4.5,0,0,0,0,0,0.0
+730,Brian,Brobbey,17,Attaquant,5.5,0,0,0,0,0,0.0
+735,Bertrand,Traoré,17,Milieu,5.5,0,0,0,0,0,0.0
+565,Guglielmo,Vicario,18,Gardien,5.0,21,270,0,0,2,8.5
+566,Brandon,Austin,18,Gardien,4.0,0,0,0,0,0,0.3
+567,Antonín,Kinský,18,Gardien,4.0,0,0,0,0,0,1.7
+568,Pedro,Porro Sauceda,18,Défenseur,5.6,15,250,0,0,2,25.3
+569,Cristian,Romero,18,Défenseur,5.0,15,270,0,0,2,5.4
+570,Kevin,Danso,18,Défenseur,4.4,1,1,0,0,0,0.2
+571,Ben,Davies,18,Défenseur,4.4,0,0,0,0,0,0.1
+572,Radu,Drăgușin,18,Défenseur,4.5,0,0,0,0,0,0.0
+573,Djed,Spence,18,Défenseur,4.5,13,270,0,0,2,2.3
+574,Destiny,Udogie,18,Défenseur,4.4,1,19,0,0,0,0.5
+575,Micky,van de Ven,18,Défenseur,4.6,13,270,0,0,2,28.7
+576,Ashley,Phillips,18,Défenseur,4.0,0,0,0,0,0,0.0
+577,Takai,Kōta,18,Défenseur,4.0,0,0,0,0,0,0.1
+578,Luka,Vušković,18,Défenseur,3.9,0,0,0,0,0,0.8
+579,Son,Heung-min,18,Milieu,8.5,0,0,0,0,0,0.2
+580,Brennan,Johnson,18,Milieu,7.1,18,209,2,0,2,10.1
+581,James,Maddison,18,Milieu,6.9,0,0,0,0,0,0.2
+582,Mohammed,Kudus,18,Milieu,6.6,15,259,0,2,2,32.6
+583,Dejan,Kulusevski,18,Milieu,6.4,0,0,0,0,0,0.0
+584,Mathys,Tel,18,Milieu,6.3,2,19,0,0,0,0.1
+585,Rodrigo,Bentancur,18,Milieu,5.5,6,199,0,0,1,0.2
+586,Lucas,Bergvall,18,Milieu,5.4,5,119,0,0,1,0.1
+587,Yves,Bissouma,18,Milieu,5.3,0,0,0,0,0,0.1
+588,Wilson,Odobert,18,Milieu,5.4,3,58,0,0,0,0.0
+589,Manor,Solomon,18,Milieu,5.4,0,0,0,0,0,0.0
+590,Bryan,Gil Salvatierra,18,Milieu,4.9,0,0,0,0,0,0.0
+591,Archie,Gray,18,Milieu,4.9,3,70,0,0,1,0.1
+592,Mikey,Moore,18,Milieu,5.0,0,0,0,0,0,0.0
+593,Pape Matar,Sarr,18,Milieu,5.0,11,255,0,1,2,2.6
+594,Yang,Min-hyeok,18,Milieu,4.5,0,0,0,0,0,0.0
+595,Callum,Olusesi,18,Milieu,4.4,0,0,0,0,0,0.2
+596,Dominic,Solanke-Mitchell,18,Attaquant,7.3,2,31,0,0,0,2.2
+597,Richarlison,de Andrade,18,Attaquant,6.7,19,238,2,1,2,13.8
+598,Will,Lankshear,18,Attaquant,4.5,0,0,0,0,0,0.0
+599,Dane,Scarlett,18,Attaquant,4.4,0,0,0,0,0,0.7
+673,João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,18,Milieu,5.5,13,153,1,0,1,0.8
+717,Xavi,Simons,18,Milieu,7.0,0,0,0,0,0,0.6
+726,Randal,Kolo Muani,18,Attaquant,7.0,0,0,0,0,0,0.1
+149,Igor Julio,dos Santos de Paulo,19,Défenseur,4.5,0,0,0,0,0,0.1
+600,Alphonse,Areola,19,Gardien,4.4,0,0,0,0,0,3.0
+601,Wes,Foderingham,19,Gardien,4.0,0,0,0,0,0,0.5
+602,Krisztián,Hegyi,19,Gardien,4.0,0,0,0,0,0,0.3
+603,El Hadji Malick,Diouf,19,Défenseur,4.5,14,270,0,2,1,5.3
+604,Emerson,Palmieri dos Santos,19,Défenseur,4.4,0,0,0,0,0,0.1
+605,Maximilian,Kilman,19,Défenseur,4.4,6,270,0,0,1,0.2
+606,Konstantinos,Mavropanos,19,Défenseur,4.4,6,90,0,0,1,0.1
+607,Nayef,Aguerd,19,Défenseur,4.4,3,180,0,0,0,0.1
+608,Ollie,Scarles,19,Défenseur,4.4,0,0,0,0,0,0.0
+609,Jean-Clair,Todibo,19,Défenseur,4.4,1,126,0,0,0,0.1
+610,Aaron,Wan-Bissaka,19,Défenseur,4.4,1,180,0,0,0,15.3
+611,Kaelan,Casey,19,Défenseur,4.0,0,0,0,0,0,0.1
+612,Lucas,Tolentino Coelho de Lima,19,Milieu,5.9,21,270,2,0,1,2.2
+613,Tomáš,Souček,19,Milieu,5.8,6,178,0,0,1,0.5
+614,James,Ward-Prowse,19,Milieu,5.9,7,234,0,0,1,0.3
+615,Crysencio,Summerville,19,Milieu,5.5,7,8,0,2,0,0.0
+616,Edson,Álvarez Velázquez,19,Milieu,4.9,0,0,0,0,0,0.1
+617,Maxwel,Cornet,19,Milieu,4.9,0,0,0,0,0,0.0
+618,Guido,Rodríguez,19,Milieu,4.9,2,70,0,0,0,0.1
+619,Luis Guilherme,Lira dos Santos,19,Milieu,4.9,0,0,0,0,0,0.0
+620,George,Earthy,19,Milieu,4.5,0,0,0,0,0,0.1
+621,Andy,Irving,19,Milieu,4.5,2,23,0,0,0,0.3
+622,Lewis,Orford,19,Milieu,4.4,0,0,0,0,0,0.1
+623,Freddie,Potts,19,Milieu,4.4,1,45,0,0,0,0.6
+624,Jarrod,Bowen,19,Attaquant,7.8,13,270,1,0,1,7.5
+625,Niclas,Füllkrug,19,Attaquant,5.8,5,198,0,0,1,1.7
+626,Callum,Marshall,19,Attaquant,4.4,0,0,0,0,0,0.7
+659,Kyle,Walker-Peters,19,Défenseur,4.4,7,110,0,0,1,0.3
+671,Callum,Wilson,19,Attaquant,5.9,9,90,1,0,0,0.4
+679,Mads,Hermansen,19,Gardien,4.5,8,270,0,0,1,0.3
+708,Mateus Gonçalo,Espanha Fernandes,19,Milieu,5.5,3,81,0,0,1,0.0
+718,Soungoutou,Magassa,19,Milieu,5.0,0,0,0,0,0,0.0
+627,Sam,Johnstone,20,Gardien,4.5,0,0,0,0,0,0.1
+628,José,Malheiro de Sá,20,Gardien,4.5,4,270,0,0,0,1.8
+629,Daniel,Bentley,20,Gardien,4.0,0,0,0,0,0,0.7
+631,Emmanuel,Agbadou,20,Défenseur,4.5,5,270,0,0,0,0.4
+632,Matt,Doherty,20,Défenseur,4.5,0,180,0,0,0,0.2
+633,Hugo,Bueno López,20,Défenseur,4.5,2,137,0,0,0,0.1
+634,Yerson,Mosquera Valdelamar,20,Défenseur,4.4,0,0,0,0,0,0.1
+635,Rodrigo,Martins Gomes,20,Défenseur,4.5,8,44,1,0,0,0.1
+636,Santiago,Ignacio Bueno,20,Défenseur,4.5,4,124,0,0,0,0.0
+637,Toti,Gomes,20,Défenseur,4.4,1,228,0,0,0,0.1
+638,Ki-Jana,Hoever,20,Défenseur,4.0,2,106,0,0,0,1.7
+639,Bastien,Meupiyou Menadjou,20,Défenseur,4.0,0,0,0,0,0,0.0
+640,Pedro,Cardoso de Lima,20,Défenseur,4.0,0,0,0,0,0,0.9
+641,Alfie,Pond,20,Défenseur,4.0,0,0,0,0,0,1.2
+642,Hwang,Hee-chan,20,Milieu,5.9,9,95,1,0,0,0.1
+643,André,Trindade da Costa Neto,20,Milieu,5.5,7,179,0,0,0,0.1
+644,Jean-Ricner,Bellegarde,20,Milieu,5.4,4,143,0,0,0,0.1
+645,Fer,López González,20,Milieu,5.4,2,44,0,0,0,0.0
+646,João Victor,Gomes da Silva,20,Milieu,5.5,5,270,0,0,0,0.1
+647,Gonçalo Manuel,Ganchinho Guedes,20,Milieu,5.5,0,0,0,0,0,0.0
+648,Marshall,Munetsi,20,Milieu,5.5,9,270,0,1,0,0.1
+649,Boubacar,Traoré,20,Milieu,5.0,0,0,0,0,0,0.0
+650,Tawanda,Chirewa,20,Milieu,4.4,0,0,0,0,0,0.3
+651,Tom,Edozie,20,Milieu,4.4,0,0,0,0,0,0.4
+652,Enso,González Medina,20,Milieu,4.4,0,0,0,0,0,1.3
+653,Joe,Hodge,20,Milieu,4.5,0,0,0,0,0,0.0
+654,Jørgen,Strand Larsen,20,Attaquant,6.4,4,158,0,0,0,3.0
+655,Fábio,Soares Silva,20,Attaquant,4.9,0,0,0,0,0,0.4
+656,Saša,Kalajdžić,20,Attaquant,4.9,1,14,0,0,0,0.1
+657,Leon,Chiwome,20,Attaquant,4.5,0,0,0,0,0,0.0
+658,Nathan,Fraser,20,Attaquant,4.4,0,0,0,0,0,2.0
+663,Jhon,Arias,20,Milieu,5.4,4,135,0,0,0,0.4
+682,David,Møller Wolfe,20,Défenseur,4.5,6,131,0,1,0,0.1
+695,Jackson,Tchatchoua,20,Défenseur,4.5,2,117,0,0,0,0.0
+709,Ladislav,Krejcí,20,Défenseur,4.5,0,0,0,0,0,0.0
+720,Tolu,Arokodare,20,Attaquant,5.5,0,0,0,0,0,0.0
